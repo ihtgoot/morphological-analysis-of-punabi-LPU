@@ -1,0 +1,2 @@
+punjabi.txt filter=lfs diff=lfs merge=lfs -text
+wiki_translate_en_hi_subset.csv filter=lfs diff=lfs merge=lfs -text
