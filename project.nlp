@@ -1,0 +1,16 @@
+* DATA (min:1M good:10M token) :
+	* https://towardsdatascience.com/fundamental-eda-techniques-for-nlp-f81a93696a75/
+	* Pubjabi is written in gurumukhi script
+	* we can scrap wikipedia or use nptel transcript , as raw data https://github.com/UniversalDependencies/UD_Punjabi-PunTB/blob/dev/README.md
+	* potentil dataset :
+		* https://data.mendeley.com/datasets/h65gdk4ptv/1
+		* https://huggingface.co/datasets/ai4bharat/wiki-translate
+		* https://huggingface.co/datasets/ai4bharat/IndicWikiBio/viewer/pa
+		* 
+	* this is done mannually (morphological analysis) can be used frpo validation 
+	* Punjabi tokenization :
+		* https://pypi.org/project/sentencepiece/
+			* encoad_as_pieces 
+			* https://github.com/goru001/nlp-for-punjabi/blob/master/language-model/inltk/tokenizer.py
+		* https://inltk.readthedocs.io/en/latest/index.html
+
