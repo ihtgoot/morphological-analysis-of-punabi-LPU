@@ -6,6 +6,15 @@
 dataset/
 Data_cleaning/
 
+# Ignore Jupyter notebook checkpoints and cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Ignore large model files
+*.model
+*.bin
+*.pkl
+
 # Ignore Python cache and virtual environments
 __pycache__/
 *.py[cod]
