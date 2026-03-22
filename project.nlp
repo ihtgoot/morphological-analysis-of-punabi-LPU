@@ -1,4 +1,4 @@
-* DATA (min:1M good:10M token) :
+* DATA (0.5M) :
 	* https://towardsdatascience.com/fundamental-eda-techniques-for-nlp-f81a93696a75/
 	* Pubjabi is written in gurumukhi script
 	* we can scrap wikipedia or use nptel transcript , as raw data https://github.com/UniversalDependencies/UD_Punjabi-PunTB/blob/dev/README.md
@@ -14,3 +14,5 @@
 			* https://github.com/goru001/nlp-for-punjabi/blob/master/language-model/inltk/tokenizer.py
 		* https://inltk.readthedocs.io/en/latest/index.html
 
+* PAPER:
+	* https://www.sciencedirect.com/science/article/pii/S1319157818300612
